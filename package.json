@@ -1,0 +1,21 @@
+{
+  "name": "webpack-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/main.js",
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "less-loader": "^12.2.0"
+  }
+}
